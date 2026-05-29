@@ -1,25 +1,4 @@
-{
-  "name": "farmbotm4you",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "dependencies": {
-    "discord.js": "^14.26.4",
-    "dotenv": "^17.4.2"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/yannikweber84-cloud/farmbotm4you.git"
-  },
-  "bugs": {
-    "url": "https://github.com/yannikweber84-cloud/farmbotm4you/issues"
-  },
-  "homepage": "https://github.com/yannikweber84-cloud/farmbotm4you#readme"
+"dependencies": {
+  "dotenv": "...",
+  "express": "..."
 }
